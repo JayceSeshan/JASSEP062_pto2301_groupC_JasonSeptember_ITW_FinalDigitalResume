@@ -40,6 +40,11 @@ a:hover {
     justify-content:center;
     flex-wrap: wrap-reverse;
 }
+.Submit:hover {
+   background-color: rgb(75, 75, 218);
+    color: white;
+    box-shadow: 0 4px 15px 0 rgba(49, 196, 190, 0.75);  
+}
 
 @media screen and (max-width: 320px) {
     .body {
